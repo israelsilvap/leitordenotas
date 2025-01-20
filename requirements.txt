@@ -1,0 +1,6 @@
+fitz
+pandas
+opencv-python
+pyzbar
+selenium
+webdriver_manager
