@@ -45,11 +45,20 @@ Este projeto é um leitor de notas fiscais que extrai informações de um PDF, p
 
 1. Clone o repositório:
     ```sh
-    https://github.com/israelsilvap/leitordenotas.git
+    git clone https://github.com/israelsilvap/leitordenotas.git
+    cd leitordenotas
     ```
-2. Instale as dependências:
+2. Instale as dependências usando o Poetry:
     ```sh
-    pip install -r requirements.txt
+    poetry install
+    ```
+3. (Opcional) Ative o ambiente virtual do Poetry:
+    ```sh
+    poetry shell
+    ```
+4. Execute o projeto:
+    ```sh
+    poetry run python main.py
     ```
 
 ## 📜 Licença
