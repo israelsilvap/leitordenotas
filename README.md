@@ -45,7 +45,7 @@ Este projeto é um leitor de notas fiscais que extrai informações de um PDF, p
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/leitordenotas.git
+    https://github.com/israelsilvap/leitordenotas.git
     ```
 2. Instale as dependências:
     ```sh
